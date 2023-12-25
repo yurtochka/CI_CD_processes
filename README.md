@@ -68,3 +68,8 @@
         exclude:
           - public/temp.txt
 
+  
+  ![gitlab_project](https://github.com/yurtochka/CI_CD_processes/blob/main/gitlab_project.jpg) 
+
+  
+  ![jobs](https://github.com/yurtochka/CI_CD_processes/blob/main/jobs.jpg) 
